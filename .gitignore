@@ -19,3 +19,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+# Ortam değişkenleri
+.env
+.env.*
+!.env.example
